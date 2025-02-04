@@ -1,0 +1,11 @@
+{
+  "name": "gtnh",
+  "version": "0.0.02",
+  "title": "GTNH Factorio Edition",
+  "author": "Dizabeth",
+  "description": "Recreating GregTech Mod for Factorio. The mod does not add anything yet. Gradually mechanisms, recipes, items, etc. from GregTech will be added. Suggest your ideas for reworking some Gregtech mechanics, for example: voltage, current, rings on EBF, etc.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}
